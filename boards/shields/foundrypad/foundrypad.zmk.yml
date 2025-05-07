@@ -1,0 +1,8 @@
+file_format: "1"
+id: foundrypad
+name: Foundrypad
+type: shield
+url: https://github.com/uorbe001/foundrypad/
+requires: [pro_micro]
+features:
+  - keys

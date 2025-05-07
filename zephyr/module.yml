@@ -1,3 +1,4 @@
+name: foundrypad
 build:
   settings:
     board_root: .
